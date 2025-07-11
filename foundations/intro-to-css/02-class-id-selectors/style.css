@@ -1,0 +1,19 @@
+.impar{
+  background-color: rgb(255, 130, 130);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#par-dos{
+  color: rgb(61, 61, 252);
+  font-size: 36px;
+}
+
+.grandote{
+  font-size: 24px;
+}
+
+#cuarto{
+  background-color: rgb(140, 255, 178);
+  font-size: 24px;
+  font-weight: bold;
+}
